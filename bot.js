@@ -2617,7 +2617,7 @@ member.guild.fetchInvites().then(guildInvites => {
       var Canvas = require('canvas')
       var jimp = require('jimp')
       
-      const w = ['./swlc.png'];
+      const w = ['./file.png'];
       
               let Image = Canvas.Image,
                   canvas = new Canvas(400, 200),
