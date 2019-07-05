@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['Welcome Bot ♥','L.K Team ♥'];
+    var setGame = ['Welcome Bot ♥','2.B Server ♥'];
     var i = -1;
     var j = 0;
     setInterval(function (){
